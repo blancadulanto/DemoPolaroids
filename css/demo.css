@@ -14,7 +14,7 @@
 }
 
 body {
-	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family:'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	overflow-x: hidden;
 	color: #a5aeb5;
 	background: #000000;
@@ -86,7 +86,7 @@ a:focus {
 
 .codrops-icon--drop::before {
 	content: '\e001';
-	color: #09c;
+	color:#60df2d ;
 }
 
 .codrops-icon--prev::before {
