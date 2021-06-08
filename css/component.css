@@ -54,7 +54,7 @@
 }
 
 .title--sub {
-	font-size: 1em;
+	font-size: 0,75em;
 	font-weight: 700;
 	display: block;
 	margin: 0;
@@ -90,7 +90,7 @@
 }
 
 .page__title-main {
-	font-size: 3.75em;
+	font-size: 2,5em;
 	margin: 0 auto;
 	padding: 3em 0 0;
 	color:#51df2d;
